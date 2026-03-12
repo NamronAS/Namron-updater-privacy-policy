@@ -1,8 +1,8 @@
-# Privacy Policy – Namron Stove Guard Updater
+# Privacy Policy – Namron Updater
 Last updated: 12.03.2026
 
 ## 1. Introduction
-This Privacy Policy explains how the Namron Stove Guard Updater app (“the App”, “we”, “our”) handles user data.
+This Privacy Policy explains how the Namron Updater app (“the App”, “we”, “our”) handles user data.
 The purpose of the App is to update firmware on compatible Namron Komfyrvakt devices (HDU/PCU) using Bluetooth Low Energy (BLE).
 We respect your privacy and are committed to protecting it.
 The App does not collect, store, share, or transmit any personal data.
